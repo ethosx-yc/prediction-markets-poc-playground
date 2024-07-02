@@ -1,0 +1,7 @@
+**/node_modules
+.env*
+**/mnemonic.txt
+*console-history.txt
+**/cache/
+
+*.txt
